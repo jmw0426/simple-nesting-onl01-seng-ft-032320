@@ -57,6 +57,8 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
+     grace_hopper = programmer_hash[:grace_hopper]
+grace_hopper
 end
 
 def adding_matz
