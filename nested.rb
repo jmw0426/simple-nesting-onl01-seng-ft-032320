@@ -57,7 +57,7 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-     grace_hopper = programmer_hash[:grace_hopper]
+     grace_hopper = programmer_hash[:grace_hopper][:known_for, :languages]
 grace_hopper
 end
 
